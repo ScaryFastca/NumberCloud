@@ -1,3 +1,7 @@
+This is just a little project to learn, there's nothing of interest to be found. 
+
+I just want to have a few hundred 3 digit numbers displayed on screen that I can click to make a bar graph grow with each click. Alternatively I might do a number cloud, and the number you click grows larger.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
